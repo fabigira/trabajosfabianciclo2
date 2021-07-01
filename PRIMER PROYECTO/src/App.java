@@ -25,6 +25,7 @@ public class App {
 
         int [] lista = {1,2,3,4,5};
         System.out.println(lista[2]);
+        System.out.println(lista[3]);
         
         
         
