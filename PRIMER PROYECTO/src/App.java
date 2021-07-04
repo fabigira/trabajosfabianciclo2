@@ -27,7 +27,7 @@ public class App {
         System.out.println(lista[2]);
         System.out.println(lista[3]);
 
-        System.out.println(lista[4]);
+        System.out.println(lista[1]);
         
         
         
